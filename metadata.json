@@ -1,0 +1,10 @@
+{
+  "name": "Artemis II Orbital Sim",
+  "description": "A high-fidelity physics simulation of the Artemis II mission using RK4 integration and Newton's laws.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Physics Simulation",
+    "Data Visualization",
+    "Real-time Animation"
+  ]
+}
